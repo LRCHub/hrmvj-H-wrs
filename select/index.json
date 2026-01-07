@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "fortnight",
+  "base_artist": "eill",
+  "createdAt": "2026-01-07T16:11:11.545947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Fortnight Saga",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/01_The_Fortnight_Saga_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fortnight",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/02_Fortnight_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El Sobrante Fortnight",
+      "artist": "Les Claypool and The Holy Mackerel",
+      "has_synced": false,
+      "path": "select/03_El_Sobrante_Fortnight_Les_Claypool_and_The_Holy_Mackerel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift feat. Post Malone",
+      "has_synced": true,
+      "path": "select/04_Fortnight_(feat._Post_Malone)_Taylor_Swift_feat._Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/05_Fortnight_(feat._Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fortnight (cu Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Fortnight_(cu_Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fortnight",
+      "artist": "Taylor Swift feat. Post Malone",
+      "has_synced": true,
+      "path": "select/07_Fortnight_Taylor_Swift_feat._Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fortnight",
+      "artist": "Taylor Swift feat. Post Malone",
+      "has_synced": true,
+      "path": "select/08_Fortnight_Taylor_Swift_feat._Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fortnight",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_Fortnight_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fortnight [feat. Post Malone]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_Fortnight_[feat._Post_Malone]_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fortnight",
+      "artist": "Taylor Swift & Post Malone",
+      "has_synced": true,
+      "path": "select/11_Fortnight_Taylor_Swift_&_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Taylor Swift - Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Taylor_Swift_-_Fortnight_(feat._Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_Fortnight_(feat._Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fortnight ft. Post Malone",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Fortnight_ft._Post_Malone_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_Fortnight_(feat._Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fortnight (合作演出：Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_Fortnight_(合作演出_Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Taylor Swift - Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_Taylor_Swift_-_Fortnight_(feat._Post_Malone)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fortnight",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_fortnight_eill.txt"
+    }
+  ]
+}
